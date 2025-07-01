@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chenna Kesava Rao Sukhavasi</h1>
+<h3 align="center">Commerce Graduate | Financial Modeling | Power BI & Excel | CMA (USA) in Progress</h3>
 
-<!--
-**Sukhavasichennakesavarao/Sukhavasichennakesavarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhavasichennakesavarao&label=Profile%20views&color=0e75b6&style=flat" alt="sukhavasichennakesavarao" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhavasichennakesavarao" alt="sukhavasichennakesavarao" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have completed working on **Financial Modeling**
+
+- 🌱 I’m currently learning **Tableau**
+
+- 🔭 I recently completed working on **Credit Ratings Dashboard Using Power BI**
+
+- 📫 How to reach me **chennakesavasukhavasi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhavasichennakesavarao&show_icons=true&locale=en&layout=compact" alt="sukhavasichennakesavarao" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhavasichennakesavarao&show_icons=true&locale=en" alt="sukhavasichennakesavarao" /></p>
