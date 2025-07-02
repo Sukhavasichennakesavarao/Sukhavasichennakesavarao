@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 🔭 I recently completed working on **Credit Ratings Dashboard Using Power BI**
+- 🔭 I recently completed working on **Loan Analysis Dashboard Using Power BI**
 
 - 📫 How to reach me **chennakesavasukhavasi@gmail.com**
 
